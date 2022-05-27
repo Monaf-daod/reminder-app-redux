@@ -1,0 +1,39 @@
+body {
+    background-color:#ff4800;
+}
+
+.App{
+    background: rgb(97, 20, 220);
+    width: 50%;
+    margin: 50px auto;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    width: 20%;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+input{
+    margin-top: 4px;
+}
+
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.closeIcon{
+    position: absolute;
+    right:40px;
+    top:30px;
+    font-size: 20px;
+}
